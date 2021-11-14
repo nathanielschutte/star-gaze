@@ -1,0 +1,19 @@
+{
+  "name": "star-gaze",
+  "version": "1.0.0",
+  "description": "connect actos",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathanielschutte/star-gaze.git"
+  },
+  "author": "nate",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nathanielschutte/star-gaze/issues"
+  },
+  "homepage": "https://github.com/nathanielschutte/star-gaze#readme"
+}
