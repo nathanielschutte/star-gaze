@@ -1,0 +1,23 @@
+{
+  "name": "star-gaze",
+  "version": "1.0.0",
+  "description": "View connections between actors",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathanielschutte/star-gaze.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathanielschutte/star-gaze/issues"
+  },
+  "homepage": "https://github.com/nathanielschutte/star-gaze#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2"
+  }
+}
