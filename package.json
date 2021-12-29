@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/nathanielschutte/star-gaze/issues"
   },
-  "homepage": "https://github.com/nathanielschutte/star-gaze#readme"
+  "homepage": "https://github.com/nathanielschutte/star-gaze#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.1.2",
+    "socket.io": "^4.4.0"
+  }
 }

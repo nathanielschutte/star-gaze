@@ -1,0 +1,17 @@
+
+One main page
+    Fullscreen canvas that centers based on screen dimensions
+        Mostly the star forest
+        Details on the bottom show what the actor links are for highlighted connection
+    Small UI to input two films, make API call
+
+Sparse forest of stars should be constant on screen
+    On load, spin into view
+    Depth, fog
+    Use some stars to form the paths received
+        Select one at a time for detail view
+
+API 
+    gaze/?m1&m2
+        Return a few strong routes between these movies
+
